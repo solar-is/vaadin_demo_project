@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:vaadin-icons-flow:2.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-icons-flow/2.0.1/48ca4b21c29468e4a2958e967e858bae9c67c4a5/vaadin-icons-flow-2.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-icons-flow/2.0.1/6fad190d75dda337e1a758faea48335af01aa3d1/vaadin-icons-flow-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

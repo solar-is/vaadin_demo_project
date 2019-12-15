@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.webjars.bowergithub.vaadin:vaadin-login:1.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bowergithub.vaadin/vaadin-login/1.0.1/c71d2b2f97476fabed81ed978ab8e387f9a9fa/vaadin-login-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bowergithub.vaadin/vaadin-login/1.0.1/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/vaadin-login-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

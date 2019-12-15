@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:vaadin-time-picker-flow:2.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-time-picker-flow/2.0.3/85999daa6f87ecd082f966b32cb3963af1b3fa58/vaadin-time-picker-flow-2.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-time-picker-flow/2.0.3/7a966653a5cb1f0d4c1f1a1d34e0fee182bfe9bc/vaadin-time-picker-flow-2.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

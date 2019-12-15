@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:vaadin-select-flow:2.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-select-flow/2.0.2/b0ffb289ff8f4efc6d11685ecead498cef5abed2/vaadin-select-flow-2.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-select-flow/2.0.2/6bedb16866693c3bc2d968191553820bc685ecd4/vaadin-select-flow-2.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

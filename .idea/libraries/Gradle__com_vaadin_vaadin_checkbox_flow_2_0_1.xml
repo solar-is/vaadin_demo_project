@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:vaadin-checkbox-flow:2.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-checkbox-flow/2.0.1/d3bfe818015e6d0e8d6d41275e005d445546c944/vaadin-checkbox-flow-2.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-checkbox-flow/2.0.1/539dd962c582b70e8ff670ec6dbba6807fd0811e/vaadin-checkbox-flow-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

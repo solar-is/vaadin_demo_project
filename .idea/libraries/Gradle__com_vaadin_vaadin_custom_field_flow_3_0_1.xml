@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:vaadin-custom-field-flow:3.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-custom-field-flow/3.0.1/269269d3c21f1ea4953cd6ad88c36f7727e07e24/vaadin-custom-field-flow-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-custom-field-flow/3.0.1/da7adb9d8ac201e578503d32a4318997a04b9749/vaadin-custom-field-flow-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
